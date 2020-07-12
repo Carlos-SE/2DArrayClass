@@ -26,3 +26,7 @@ contact me via mail:
 
 	- csalaseiroa@correo.ugr.es
 	- carlossealternativo@gmail.com
+
+## Language
+
+al files from this repository will be translated to English soon.
